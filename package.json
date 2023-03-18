@@ -1,7 +1,8 @@
 {
   "name": "game",
+  "author": "SARAGOCA, Glaydson",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "dependencies": {
     "phaser": "^3.55.2"
